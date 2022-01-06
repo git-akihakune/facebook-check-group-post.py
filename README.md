@@ -10,7 +10,7 @@ Because Facebook is so distracting, a countermeasure is needed. This script can 
 
 ## Installation
 ```bash
-https://raw.githubusercontent.com/git-akihakune/facebook-check-group-post.py/main/check-new-post.py
+wget https://raw.githubusercontent.com/git-akihakune/facebook-check-group-post.py/main/check-new-post.py
 ```
 
 Get you Facebook access token at [Graph API Explorer page](https://developers.facebook.com/tools/explorer). The group ID can be found in the group URL.
