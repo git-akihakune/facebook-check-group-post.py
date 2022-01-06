@@ -13,7 +13,7 @@ Because Facebook is so distracting, a countermeasure is needed. This script can 
 wget https://raw.githubusercontent.com/git-akihakune/facebook-check-group-post.py/main/check-new-post.py
 ```
 
-Get you Facebook access token at [Graph API Explorer page](https://developers.facebook.com/tools/explorer). The group ID can be found in the group URL.
+Get your Facebook access token at [Graph API Explorer page](https://developers.facebook.com/tools/explorer). The group ID can be found in the group URL.
 
 ## Usage
 ```python
@@ -24,4 +24,4 @@ You may also want to edit the config file at `~/.fbgr/config.ini` to avoid being
 
 
 ## Development
-This is one of on-the-whim scripts that I think would be useful. If you want to develop on it, please create a fork.
+This is one of on-a-whim scripts that I think would be useful. If you want to develop on it, please create a fork.
